@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Request a Estimate
+      - title: Request a Quote
         price: Free
         details: No credit card required
         description: >
