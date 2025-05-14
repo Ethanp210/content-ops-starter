@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Job 1
 slug: case-study-1
 date: '2024-04-25'
 excerpt: >-
