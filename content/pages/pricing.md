@@ -25,7 +25,7 @@ sections:
         actions:
           - label: Try for free
             url: >-
-              https://clienthub.getjobber.com/client_hubs/0e55ee90-5465-49ea-b1ca-34a690c90291/public/work_request/new
+              https://clienthub.getjobber.com/booking/ffb75407-c334-472a-9f06-af2c6535498d
             icon: arrowRight
             iconPosition: right
             style: secondary
