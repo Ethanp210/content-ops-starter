@@ -25,7 +25,7 @@ sections:
         actions:
           - label: Try for free
             url: >-
-              https://clienthub.getjobber.com/client_hubs/0e55ee90-5465-49ea-b1ca-34a690c90291/login/new?source=share_login
+              https://clienthub.getjobber.com/client_hubs/0e55ee90-5465-49ea-b1ca-34a690c90291/public/work_request/new
             icon: arrowRight
             iconPosition: right
             style: secondary
