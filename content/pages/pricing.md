@@ -24,7 +24,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Book now
             url: >-
               https://clienthub.getjobber.com/booking/ffb75407-c334-472a-9f06-af2c6535498d
             icon: arrowRight
