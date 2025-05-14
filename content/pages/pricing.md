@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Quotes
 slug: pricing
 sections:
   - title:
