@@ -17,8 +17,7 @@ sections:
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
-        features:
-          - Feature one
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
