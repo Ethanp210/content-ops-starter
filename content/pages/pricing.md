@@ -14,9 +14,10 @@ sections:
       - title: Request a Estimate
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our experts will come to your home and give you a free assessment on
+          whatever service you select. We will provide you with a estimate after
+          we complete the assesment. 
         features: []
         image:
           url: /images/abstract-feature1.svg
