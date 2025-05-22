@@ -15,7 +15,8 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /pricing
+        url: >-
+          https://clienthub.getjobber.com/booking/ffb75407-c334-472a-9f06-af2c6535498d
         showIcon: false
         icon: arrowRight
         iconPosition: right
