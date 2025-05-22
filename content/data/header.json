@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Quotes",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -73,17 +73,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Book Now",
+            "url": "https://clienthub.getjobber.com/booking/ffb75407-c334-472a-9f06-af2c6535498d",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
