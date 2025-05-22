@@ -13,7 +13,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: Book Now!
         altText: ''
         url: >-
           https://clienthub.getjobber.com/booking/ffb75407-c334-472a-9f06-af2c6535498d
